@@ -1,14 +1,19 @@
 html, body {
   margin: 0;
   padding: 0;
+  background-color: (#3D3D3D);
 }
 
+body{
+  background-color: (#3D3D3D);
+}
 
 canvas {
   display: block;
   margin-left: auto;
   margin-top: auto;
   margin-right: auto;
+  background-color: (#3D3D3D);
 }
 
 
@@ -29,5 +34,5 @@ h1{
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-
+  background-color: (#3D3D3D);
 }
