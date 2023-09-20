@@ -8,6 +8,8 @@ function setup() {
   createCanvas(windowWidth, windowHeight);
 }
 
+image(rodion,300,300,100,100);
+
 
 rodion.position(0,0);
 

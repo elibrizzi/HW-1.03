@@ -10,6 +10,18 @@ html, body {
   margin: 0;
   padding: 0;
   background-color: #3D3D3D;
+  background-image: url("https://cdn-www.bluestacks.com/bs-images/LimbusCompany_Article_HowToInstallandPlay_EN4.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h1{
+  color: red;
+}
+
+div{
+  color: red;
+  font-size: 35px
 }
 
 canvas {
@@ -23,22 +35,85 @@ canvas {
 h2{
   font-family: 'Playfair Display', serif;
   display: block;
-  border:3px solid black;
+  border:3px solid goldenrod;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
   padding: 3%;
   width: 70%;
-  color: darkred;
+  color: #820000;
   text-align: center;
-  font-size: 18px
+  font-size: 18px;
 }
 
 h1{
   font-family: 'Playfair Display', serif;
   font-size: 40px;
-  color: darkred;
+  color: #820000;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
+}
+
+table {
+  font-family: 'Playfair Display', serif;
+  color: goldenrod;
+  border: 2.5px solid;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3%;
+}
+
+th{
+  font-family: 'Playfair Display', serif;
+  color: gold;
+  border: 2.5px solid;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3%;
+  width: 50%;
+}
+
+td{
+  font-family: 'Playfair Display', serif;
+  color: goldenrod;
+  border: 2.5px solid;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2%;
+  font-size: 10px
+}
+
+qu{
+  font-family: 'Playfair Display', serif;
+  display: block;
+  border:3px solid goldenrod;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 3%;
+  width: 20%;
+  color: #820000;
+  text-align: center;
+  font-size: 18px
+}
+
+name{
+  font-size: 13px
+}
+
+h3{
+  font-family: 'Playfair Display', serif;
+  color: goldenrod;
+  border: 2.5px solid;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 2%;
+  font-size: 15px;
+  padding: 3%;
+  width: 50%;
 }
