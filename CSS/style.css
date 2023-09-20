@@ -1,19 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
 
-@font-face{
-
-    font-family: AntiqueQuest;
-    src: url("../Media/Fonts/Antique Quest St.ttf");
-}
-
-body{
-    background-image: url("../Media/Images/b6ko0IKC8MdYBBPkkA1aBPLe2yz-3130231736.jpeg");
-    background-size: cover;
-    background-repeat: no-repeat;
-}
-
-h1{
-    font-family: 'AntiqueQuest', serif;
-
-    color:#8c8aa9;
-}
+h2{
+    display: block;
+    border:3px solid black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3%;
+    width: 70%;
+    color: darkred;
+    text-align: center;
+    font-size: 15px
+  }
+  
