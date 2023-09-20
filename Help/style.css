@@ -31,13 +31,14 @@ h2{
   width: 70%;
   color: darkred;
   text-align: center;
-  font-size: 15px
+  font-size: 18px
 }
 
 h1{
   font-family: 'Playfair Display', serif;
+  font-size: 40px;
+  color: darkred;
   text-align: center;
   margin-left: auto;
   margin-right: auto;
-  background-color: (#3D3D3D);
 }
