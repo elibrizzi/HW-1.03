@@ -3,12 +3,14 @@ html, body {
   padding: 0;
 }
 
+
 canvas {
   display: block;
   margin-left: auto;
   margin-top: auto;
   margin-right: auto;
 }
+
 
 h2{
   display: block;
@@ -21,4 +23,11 @@ h2{
   color: darkred;
   text-align: center;
   font-size: 15px
+}
+
+h1{
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+
 }
